@@ -19,7 +19,6 @@ Each course has its own folder, including exercises, implementations, notes, and
 │   └── README.md
 ├── linear-algebra
 │   └── README.md
-├── README.md
-└── tree.txt
+└── README.md
 
 5 directories, 12 files
